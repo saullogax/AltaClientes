@@ -39,7 +39,7 @@ namespace AltaClientes
             try
             {
                 frmAltaClientes frmaltaclientes = new frmAltaClientes();
-                cadenaConexionSqlServer = "server=MOV-230542-9015\\SQLEXPRESS ; database=prueba2 ; integrated security = true";
+                cadenaConexionSqlServer = "server=(localdb)\\saullogax ; database=altaclientes ; integrated security = true";
 
                 
 

@@ -19,3 +19,14 @@ C:\Users\saul.lopez\Desktop\Proyecto\AltaClientes-Memo\AltaClientes\obj\Debug\Al
 C:\Users\saul.lopez\Desktop\Proyecto\AltaClientes-Memo\AltaClientes\obj\Debug\AltaClientes.frmAltaClientes.resources
 C:\Users\saul.lopez\Desktop\Proyecto\AltaClientes-Memo\AltaClientes\obj\Debug\AltaClientes.Properties.Resources.resources
 C:\Users\saul.lopez\Desktop\Proyecto\AltaClientes-Memo\AltaClientes\obj\Debug\AltaClientes.csproj.GenerateResource.Cache
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\bin\Debug\AltaClientes.exe.config
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\bin\Debug\AltaClientes.exe
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\bin\Debug\AltaClientes.pdb
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.csproj.AssemblyReference.cache
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.FrmBuscar.resources
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.frmAltaClientes.resources
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.Properties.Resources.resources
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.csproj.GenerateResource.cache
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.csproj.CoreCompileInputs.cache
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.exe
+C:\Users\saull\OneDrive\Documentos\GitHub\AltaClientes\AltaClientes\obj\Debug\AltaClientes.pdb

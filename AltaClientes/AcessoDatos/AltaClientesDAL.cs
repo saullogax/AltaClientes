@@ -48,7 +48,7 @@ namespace AltaClientes.AcessoDatos
             {
                 if (accesoSqlServer.Open())
                 {
-                    query = String.Format($"EXEC prueba2.dbo.proc_GuardarClientes @numcliente = {num} ," +
+                    query = String.Format($"EXEC altaclientes.dbo.proc_GuardarClientes @numcliente = {num} ," +
                                         $" @nomcliente = '{nombre}', @telefono = '{telefono}',@fechanac = '{fechanac}', @domicilio = '{domicilio}', @interior ='{numeroint}', @estatus = '{estatus}'");
                     
                     resultado = Convert.ToBoolean(accesoSqlServer.ExecuteQuery(query));
@@ -89,7 +89,7 @@ namespace AltaClientes.AcessoDatos
             try
             {
                 dtUsuarios = new DataTable();
-                query = "EXEC prueba2.dbo.proc_CargarClientes";
+                query = "EXEC altaclientes.dbo.proc_CargarClientes";
 
                 if (accesoSqlServer.Open())
                 {
@@ -127,7 +127,7 @@ namespace AltaClientes.AcessoDatos
             try
             {
                 dtEstatus = new DataTable();
-                query = "EXEC prueba2.dbo.proc_CargarEstatus";
+                query = "EXEC altaclientes.dbo.proc_CargarEstatus";
 
                 if (accesoSqlServer.Open())
                 {
@@ -163,7 +163,7 @@ namespace AltaClientes.AcessoDatos
             try
             {
                 dtUltimoCodigo = new DataTable();
-                query = "EXEC prueba2.dbo.proc_ultimoCodigo";
+                query = "EXEC altaclientes.dbo.proc_ultimoCodigo";
 
                 if (accesoSqlServer.Open())
                 {
